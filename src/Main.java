@@ -13,6 +13,7 @@ void main() {
     d2.activo = false;
 
     d1.mostrarInformacion();
+    d1.mostrarInformacion();
     d1.mostrarEstado();
     d2.mostrarEstado();
     d2.mostrarInformacion();
